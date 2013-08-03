@@ -1,0 +1,19 @@
+{
+  "name": "openvg-tiger",
+  "version": "0.0.1",
+  "description": "The OpenVG RI tiger implemented in openvg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/luismreis/node-openvg-tiger",
+  "keywords": [
+    "openvg",
+    "tiger"
+  ],
+  "author": "Luis Reis <luis.m.reis@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "openvg": "~0.4.4"
+  }
+}
